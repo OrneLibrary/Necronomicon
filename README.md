@@ -13,8 +13,8 @@ https://lolbas-project.github.io/#
     Signed or created by Microsoft so should be on all systems
 ---
 #### AD Explotation Cheat Sheet
-https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet
-#### CrackMapExec
+https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet  
+
     List of tools and methods for AD take overs
     Includes some Windows privexc stuff
 ---
@@ -23,6 +23,7 @@ https://github.com/swisskyrepo/PayloadsAllTheThings
 
     Tons of webapp tools and methods
 ---
+#### CrackMapExec
 https://github.com/byt3bl33d3r/CrackMapExec
 
     SMB or RDP (non-interactive) code execution
