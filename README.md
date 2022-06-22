@@ -12,6 +12,17 @@ https://lolbas-project.github.io/#
     List of tools for execution, AWL bypassing, downloading, dumping
     Signed or created by Microsoft so should be on all systems
 ---
+#### GTFOBins
+https://gtfobins.github.io/
+
+    GTFOBins is a curated list of Unix binaries that can be used to
+    bypass local security restrictions in misconfigured systems.
+---
+#### File Sec
+https://filesec.io/#
+
+    LOLBAS but for file types. Good for finding means of execution or compression.
+---
 #### AD Explotation Cheat Sheet
 https://github.com/S1ckB0y1337/Active-Directory-Exploitation-Cheat-Sheet  
 
